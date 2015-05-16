@@ -1,0 +1,19 @@
+{
+  "name": "Angular2TypeScriptConfDemo",
+  "version": "0.0.1",
+  "description": "Angular2 configuration using tsdconfig.json file",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "author": "Sandeep",
+  "license": "ISC",
+  "devDependencies": {
+    "tsd": "^0.6.0",
+    "typescript": "^1.5.0-beta"
+  }
+}
