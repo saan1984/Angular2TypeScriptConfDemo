@@ -1,4 +1,4 @@
-# Configuring Angular2 With TSD Configuration File #
+# Setting Up Angular2 With TSD Configuration File #
 
 1. Run command: ** npm install**  : This will install **TSD Package Manager** for Typescript and typescript compiler.
 
