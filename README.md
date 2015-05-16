@@ -26,6 +26,7 @@
 	  		]
 		}
 7. Add the TSD watcher start command **tsc -w **in **package.json** file.The updated package.json file is listed as follows.
+
 		{
 		  "name": "Angular2TypeScriptConfDemo",
 		  "version": "0.0.1",
@@ -46,5 +47,5 @@
 		  }
 		}
 
-
 8. Now Run the following command to get started with watcher: **npm run build**
+   
